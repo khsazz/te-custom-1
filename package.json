@@ -1,0 +1,15 @@
+{
+  "name": "te-ui-grid-draggable-rows",
+  "version": "1.0",
+  "description": "HTML5 Drag and Drop functionality for angular ui-grid",
+  "main": "js/te-ui-grid-draggable-rows.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cdwv/ui-grid-draggable-rows.git"
+  },
+  "author": "Khaled Sazzad <khaled.sazzad@tendereasy.com>",
+  "license": "MIT"
+}

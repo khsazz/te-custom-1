@@ -1,0 +1,21 @@
+{
+  "name": "ui-grid-draggable-rows",
+  "version": "0.3.2",
+  "authors": [
+    "Khaled Sazzad <khaled.sazzad@tendereasy.com>"
+  ],
+  "description": "Tendereasy Custom Library",
+  "main": "js/te-ui-grid-draggable-rows.js",
+  "moduleType": [
+    "globals"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests",
+    ".eslintrc"
+  ]
+}
